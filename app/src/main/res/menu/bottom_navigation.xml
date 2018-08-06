@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/map"
+        android:title="Near By"
+        android:icon="@drawable/maplocation"
+        android:orderInCategory="1"/>
+
+    <item
+        android:id="@+id/games"
+        android:title="Games"
+        android:icon="@drawable/pikachu"
+        android:orderInCategory="2"/>
+
+    <item
+        android:id="@+id/favourite"
+        android:title="Favourite"
+        android:icon="@drawable/socialmedia"
+        android:orderInCategory="3"/>
+
+</menu>
